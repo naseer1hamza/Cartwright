@@ -34,8 +34,16 @@
 #define SCALE_FACTOR 2.0f
 #define SHININESS_STEP 1.0f
 
-int width, height;
+/***************************************************************************************
+*    Title: Example 10b TextureMapping
+*    Author: Randy J. Fortier
+*    Date: March 20, 2019
+*    Code version: 1.0
+*    Availability: https://github.com/randyfortier/CSCI3090U_Examples
+*
+***************************************************************************************/
 
+int width, height;
 GLuint programId;
 GLuint vertexBuffer;
 GLuint indexBuffer;

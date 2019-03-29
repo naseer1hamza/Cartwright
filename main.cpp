@@ -310,7 +310,7 @@ int main(int argc, char** argv) {
 
    drawLogo();
 
-   createTexture("textures/planks.jpg");
+   createTexture("textures/stone.jpg");
 
    ShaderProgram program;
   	program.loadShaders("shaders/vertex.glsl", "shaders/fragment.glsl");

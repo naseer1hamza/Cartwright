@@ -8,6 +8,7 @@
 *
 */
 
+
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -130,6 +131,7 @@ static void drawLogo(void) {
  * it allow us to to translate the object by using sine and cosine
  * we are also rotating the object unitl it becomes straight
  */
+
 static void update(void) {
 	int milliseconds = glutGet(GLUT_ELAPSED_TIME);
 	float degrees = (float)milliseconds / 80.0f;
@@ -148,7 +150,6 @@ static void update(void) {
 		scaleFactor = 10.0f + (float)milliseconds / 70.0f;
 	}
 
-
 	// move the light position over time along the x-axis, so we can see how it affects the shading
 	if (animateLight) {
 		float t = milliseconds / 500.0f;
@@ -161,6 +162,14 @@ static void update(void) {
 	glutPostRedisplay();
 }
 
+/***************************************************************************************
+*    Title: Example 10b TextureMapping
+*    Author: Randy J. Fortier
+*    Date: March 20, 2019
+*    Code version: 1.0
+*    Availability: https://github.com/randyfortier/CSCI3090U_Examples
+*
+***************************************************************************************/
 static void render(void) {
    float moveZ = 0.0f;
    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
@@ -245,10 +254,14 @@ static void render(void) {
 	glutSwapBuffers();
 }
 
-/**
- * 
- * function  changes the height and weiht of the shape
- */
+/***************************************************************************************
+*    Title: Example 10b TextureMapping
+*    Author: Randy J. Fortier
+*    Date: March 20, 2019
+*    Code version: 1.0
+*    Availability: https://github.com/randyfortier/CSCI3090U_Examples
+*
+***************************************************************************************/
 static void reshape(int w, int h) {
 
   glViewport(0, 0, w, h);
@@ -257,10 +270,14 @@ static void reshape(int w, int h) {
   height = h;
 }
 
-/**
- * 
- * this function lets you drad using scale.
- */
+/***************************************************************************************
+*    Title: Example 10b TextureMapping
+*    Author: Randy J. Fortier
+*    Date: March 20, 2019
+*    Code version: 1.0
+*    Availability: https://github.com/randyfortier/CSCI3090U_Examples
+*
+***************************************************************************************/
 static void drag(int x, int y) {
 	if (!isinf(lastX) && !isinf(lastY)) {
 		float dx = lastX - (float)x;
@@ -289,7 +306,14 @@ static void mouse(int button, int state, int x, int y) {
 	}
 }
 
-
+/***************************************************************************************
+*    Title: Example 10b TextureMapping
+*    Author: Randy J. Fortier
+*    Date: March 20, 2019
+*    Code version: 1.0
+*    Availability: https://github.com/randyfortier/CSCI3090U_Examples
+*
+***************************************************************************************/
 int main(int argc, char** argv) {
    glutInit(&argc, argv);
    glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH);

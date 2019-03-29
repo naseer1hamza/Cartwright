@@ -1,3 +1,12 @@
+/***************************************************************************************
+*    Title: Example 10b TextureMapping
+*    Author: Randy J. Fortier
+*    Date: March 20, 2019
+*    Code version: 1.0
+*    Availability: https://github.com/randyfortier/CSCI3090U_Examples
+*
+***************************************************************************************/
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

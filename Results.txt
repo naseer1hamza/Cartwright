@@ -1,0 +1,166 @@
+
+Userfile after Day 1
+Non Admin User  FS 000000.00
+Seller Account1 SS 000000.00
+AdminUser123456 AA 000000.00
+NonAdminUser123 FS 000000.00
+BuyerJonesSS    SS 190000.00
+NewBobJones97   FS 000300.00
+NewBobJones98   FS 000200.00
+NewBobJones55   FS 000300.00
+NewBobJones44   BS 000300.00
+SellerJonesAA   AA 500900.00
+ImAdmin         AA 100650.00
+BobJonesADMIN   AA 167920.00
+BuyerJonesBS    BS 363544.00
+SellerJonesSS   SS 611214.00
+
+Tickets file after Day 1
+SQALabsTimes              SellerJonesSS   050 110.00
+airpods_meetup2           SellerJonesAA   035 015.00
+airpods_meetup            SellerJonesSS   026 010.00
+aipods_suck               SellerJonesAA   040 009.98
+SQALabsTime               SellerJonesSS   060 110.00
+SQAFunTimes               SellerJonesSS   071 010.00
+
+Merged Daily after Day 1
+06 SellerJonesAA   AA 000100.00
+00 BobJonesADMIN   AA 169120.00
+04 SQAFunTimes               SellerJonesSS   081 010.00
+00 BuyerJonesBS    BS 363640.00
+05 ImAdmin         SellerJonesSS   000250.00
+00 BobJonesADMIN   AA 169120.00 
+00 SellerJonesAA   AA 500800.00 
+00 BobJonesADMIN   AA 169120.00
+00 BobJonesADMIN   AA 169120.00
+04 SQALabsTime               SellerJonesSS   070 110.00
+00 BuyerJonesBS    BS 363640.00 
+00 BobJonesADMIN   AA 169120.00
+04 SQALabsTime               SellerJonesSS   063 110.00
+00 BobJonesADMIN   AA 169120.00 
+06 SellerJonesSS   SS 000300.00
+00 BobJonesADMIN   AA 169120.00
+04 SQAFunTimes               SellerJonesSS   073 010.00
+00 BobJonesADMIN   AA 169120.00
+00 BobJonesADMIN   AA 169120.00
+00 BobJonesADMIN   AA 169120.00
+05 BuyerJonesBS    SellerJonesSS   000254.00
+00 BobJonesADMIN   AA 169120.00
+00 SellerJonesSS   SS 609868.00 
+
+Userfile after Day 2
+Non Admin User  FS 000000.00
+Seller Account1 SS 000000.00
+AdminUser123456 AA 000000.00
+NonAdminUser123 FS 000000.00
+BuyerJonesSS    SS 190000.00
+NewBobJones97   FS 000300.00
+NewBobJones98   FS 000200.00
+NewBobJones55   FS 000300.00
+NewBobJones44   BS 000300.00
+SellerJonesAA   AA 500900.00
+ImAdmin         AA 100650.00
+BobJonesADMIN   AA 167920.00
+BuyerJonesBS    BS 363104.00
+SellerJonesSS   SS 611654.00
+
+Tickets file after Day 2
+SQALabsTimes              SellerJonesSS   050 110.00
+airpods_meetup2           SellerJonesAA   035 015.00
+airpods_meetup            SellerJonesSS   026 010.00
+aipods_suck               SellerJonesAA   040 009.98
+SQAFunTimes               SellerJonesSS   071 010.00
+SQALabsTime               SellerJonesSS   056 110.00
+
+Merged Daily after Day 2
+00 BobJonesADMIN   AA 167920.00
+04 SQALabsTime               SellerJonesSS   056 110.00
+00 BuyerJonesBS    BS 363544.00 
+
+Userfile after Day 3
+Non Admin User  FS 000000.00
+Seller Account1 SS 000000.00
+AdminUser123456 AA 000000.00
+NonAdminUser123 FS 000000.00
+BuyerJonesSS    SS 190000.00
+NewBobJones97   FS 000300.00
+NewBobJones98   FS 000200.00
+NewBobJones55   FS 000300.00
+NewBobJones44   BS 000300.00
+SellerJonesAA   AA 500900.00
+ImAdmin         AA 100650.00
+BuyerJonesBS    BS 363104.00
+BobJonesADMIN   AA 166820.00
+SellerJonesSS   SS 612754.00
+
+Tickets file after Day 3
+SQALabsTimes              SellerJonesSS   050 110.00
+airpods_meetup2           SellerJonesAA   035 015.00
+airpods_meetup            SellerJonesSS   026 010.00
+aipods_suck               SellerJonesAA   040 009.98
+SQAFunTimes               SellerJonesSS   071 010.00
+SQALabsTime               SellerJonesSS   046 110.00
+
+Merged Daily after Day 3
+00 ImAdmin         AA 100650.00
+04 SQALabsTime               SellerJonesSS   046 110.00
+00 BobJonesADMIN   AA 167920.00 
+
+Userfile after Day 4
+Non Admin User  FS 000000.00
+Seller Account1 SS 000000.00
+AdminUser123456 AA 000000.00
+NonAdminUser123 FS 000000.00
+BuyerJonesSS    SS 190000.00
+NewBobJones97   FS 000300.00
+NewBobJones98   FS 000200.00
+NewBobJones55   FS 000300.00
+NewBobJones44   BS 000300.00
+SellerJonesAA   AA 500900.00
+ImAdmin         AA 100650.00
+BuyerJonesBS    BS 363104.00
+BobJonesADMIN   AA 166820.00
+SellerJonesSS   SS 612754.00
+
+Tickets file after Day 4
+SQALabsTimes              SellerJonesSS   050 110.00
+airpods_meetup2           SellerJonesAA   035 015.00
+airpods_meetup            SellerJonesSS   026 010.00
+aipods_suck               SellerJonesAA   040 009.98
+SQAFunTimes               SellerJonesSS   071 010.00
+SQALabsTime               SellerJonesSS   046 110.00
+
+Merged Daily after Day 4
+00 SellerJonesAA   AA 500900.00 
+
+Userfile after Day 5
+Non Admin User  FS 000000.00
+Seller Account1 SS 000000.00
+AdminUser123456 AA 000000.00
+NonAdminUser123 FS 000000.00
+BuyerJonesSS    SS 190000.00
+NewBobJones97   FS 000300.00
+NewBobJones98   FS 000200.00
+NewBobJones55   FS 000300.00
+NewBobJones44   BS 000300.00
+SellerJonesAA   AA 500900.00
+BobJonesADMIN   AA 166820.00
+ImAdmin         AA 100600.00
+BuyerJonesBS    BS 363604.00
+SellerJonesSS   SS 612504.00
+
+Tickets file after Day 5
+SQALabsTimes              SellerJonesSS   050 110.00
+airpods_meetup2           SellerJonesAA   035 015.00
+airpods_meetup            SellerJonesSS   026 010.00
+aipods_suck               SellerJonesAA   040 009.98
+SQALabsTime               SellerJonesSS   046 110.00
+SQAFunTimes               SellerJonesSS   066 010.00
+
+Merged Daily after Day 5
+06 BuyerJonesBS    BS 000200.00
+00 BobJonesADMIN   AA 166820.00
+04 SQAFunTimes               SellerJonesSS   066 010.00
+00 ImAdmin         AA 100650.00
+05 BuyerJonesBS    SellerJonesSS   000300.00
+00 BobJonesADMIN   AA 166820.00 
